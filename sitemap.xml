@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-23T15:48:36+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/test/</loc>
+    <lastmod>2024-10-23T15:48:36+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/blog/articles0001/</loc>
     <lastmod>2024-10-20T17:08:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/articles0001/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/test/articles0002/</loc>
     <lastmod>2024-10-20T17:08:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2024-10-20T17:08:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/firstblog/</loc>
-    <lastmod>2024-09-20T10:01:01+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

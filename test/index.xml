@@ -1,67 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tests on ACEVS</title>
-    <link>http://localhost:1313/test/</link>
+    <link>//localhost:1313/test/</link>
     <description>Recent content in Tests on ACEVS</description>
-    <generator>Hugo -- 0.136.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2024 17:08:04 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 ACEVS</copyright>
+    <lastBuildDate>Wed, 23 Oct 2024 15:48:36 +0800</lastBuildDate><atom:link href="//localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI再次尝试</title>
-      <link>http://localhost:1313/test/articles0001/</link>
+      <link>//localhost:1313/test/articles0002/</link>
       <pubDate>Sun, 20 Oct 2024 17:08:04 +0800</pubDate>
-      <guid>http://localhost:1313/test/articles0001/</guid>
-      <description>&lt;p&gt;不少博主用AI编程实现blog 的各种效果
-确实很强，之前也测试过不少AI
-讯飞星火，通义千问，chagpt等等。
-可以参考之前的一些post
-&lt;a href=&#34;https://acevs.com/?p=3048&#34;&gt;仪式感 礼仪 炫富 看看AI的回答 – ACEVS&lt;/a&gt;
-&lt;a href=&#34;https://acevs.com/?p=3063&#34;&gt;我把写的文章给ai读取，得到一些反馈 – ACEVS&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;程序方面&#34;&gt;程序方面&lt;/h2&gt;
-&lt;p&gt;我问通义千问&lt;a href=&#34;https://tongyi.aliyun.com/&#34;&gt;通义tongyi.ai_你的全能AI助手-通义千问&lt;/a&gt;怎么部署hugo 到 github
-我看了步骤简单明了，比我写的好多了。
-再比如部署完到 username.github.io 看page页面时候如果发现404
-你再问通义千问 一下子出来4.5种情况。提示你去检查核对和解决办法都有。
-你再问hugo 如何github actions 提高效率，又是一阵答案。还有注释。
-讯飞星火&lt;a href=&#34;https://xinghuo.xfyun.cn/desk&#34;&gt;讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞&lt;/a&gt;依旧是如此。实例&lt;a href=&#34;https://xinghuo.xfyun.cn/share?key=aaf4216805eaa280120ebf49b9d6ca5b&#34;&gt;讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞&lt;/a&gt;
-程序方面很强很高效.&lt;/p&gt;
-&lt;h2 id=&#34;读书方面&#34;&gt;读书方面&lt;/h2&gt;
-&lt;p&gt;我问  客户的游艇在哪里
-AI没有意识到是书籍，直接告诉我了几种现实中寻找游艇的方法.
-我问 《客户的游艇在哪里 》书籍内容的时候，回答还是凑合的。
-比如讯飞星火的 还会标注参考资料。链接查看&lt;a href=&#34;https://xinghuo.xfyun.cn/share?key=a7fbbaea5fc7f3d7eeb59182127d9058&#34;&gt;讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞&lt;/a&gt;
-通义千问回答差不多，就是没有标注参考资料。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!NOTE]
-&lt;strong&gt;《客户的游艇在哪里》是一本深入揭示华尔街金融界内幕的书籍，由美国作家施韦德撰写，孙建和姚洁翻译，于2010年4月1日由机械工业出版社出版&lt;/strong&gt;[^1^][^2^]。&lt;/p&gt;
-&lt;p&gt;这本书通过讲述1929年股市崩盘前后的故事，展示了投机者们的行为模式和心理状态。书中不仅描绘了股市的波动和股民的心理，还揭示了金融中介机构如何盈利，以及他们可能忽视客户利益的行为，如基金经理在基金亏损的情况下仍收取管理费等[^1^][^2^]。&lt;/p&gt;
-&lt;p&gt;作者施韦德以其在华尔街的经历为基础，用轻松活泼的语言风格对世俗进行了无情的鞭笞，同时蕴含着投资智慧，这些内容至今仍具有现实意义[^1^][^2^]。&lt;/p&gt;
-&lt;p&gt;总的来说，《客户的游艇在哪里》不仅是一本关于华尔街闹剧的书，它还提供了对投资市场的深刻洞察和批评。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我又问了 我最近看过的书
-《毛泽东点评历史人物》书籍内容
-讯飞星火没有这方面内容，抱歉，我还没有学习到关于这个话题的内容，无法提供相关信息。您可以选择其他问题，我将努力为您解答。&lt;/p&gt;
-&lt;p&gt;通义千问有的，举了几个例子和一些总结的话，也是可以的没啥问题。&lt;/p&gt;
-&lt;p&gt;我记得这本书参考了1000本左右的其他书籍。后面最后一章用了几千字或者近万字来罗列作者的参考的书目。好多人的传记。&lt;/p&gt;
-&lt;p&gt;读书方面，可能限于问题的问法，和展示答案的算法或者其他因素。
-读书思考还是有点用的。可能AI设计的如此。让人类还有点颜面？
-故意让让人类？&lt;/p&gt;
-&lt;h2 id=&#34;绘画-游戏-其他&#34;&gt;绘画 游戏 其他&lt;/h2&gt;
-&lt;p&gt;AI绘画那是一个绝字。
-虽然手啥的  可能还不行。但是其他都不错了。
-根据提示词 可以画出来一个游戏角色，演绎一段视频，
-游戏现在看上去和电影工程其实差不多了。尤其一些科幻电影和游戏唯一不同的就是你不能操作控制。
-现实中如果机器人替代了人类大部分劳动，人类只能像《黑客帝国》那样一遍一遍的战斗看看能不能见到最后的boss 机器大脑。
-硅基生命替代碳基生命，按照周期表，按照进化，我感觉硅基更先进一点，目前差的就是人类黑洞一般恐怖的大脑所具有的创造型。
-《银河系漫游指南》有个外星人眼睛是黑洞。每个人的眼睛看上去都是像黑洞的。&lt;/p&gt;
-&lt;p&gt;我问了AI DeepMind打败了人类的世界冠军没有
-DeepMind开发了一个名为AlphaStar的人工智能系统，专门用于玩《星际争霸2》。AlphaStar在与《星际争霸2》的职业选手进行的展示比赛中表现出了高水平的游戏技能，但AlphaStar并不是正式的世界冠军。
-至于《星际争霸2》的世界冠军，则通常指的是在各类国际性大赛中获胜的职业选手。例如，在2023年的IEM卡托维兹站比赛中，中国选手李培楠（ID：Oliveira，曾用ID：TIME）赢得了冠军，成为首位夺得《星际争霸2》世界冠军的中国选手。在此之前，世界冠军多由韩国选手获得。&lt;/p&gt;
-&lt;p&gt;rts游戏难度比围棋高点 对于电脑来说的原因如下：
-AlphaGo下围棋，可能的下法一共有10的170次方，这个数字比整个宇宙中的原子数10的80次方都多。而这对于星际争霸来说简直是小儿科。
-星际争霸在每一瞬间都有10的26次方种可能的操作——几乎无法计算。尽管如此，AI被限制于以人类的速度操作，这迫使其通过制定战略来取胜，而不是通过一系列超人类的无敌操作来轰炸其人类对手。&lt;/p&gt;</description>
+      
+      <guid>//localhost:1313/test/articles0002/</guid>
+      <description></description>
+      
     </item>
+    
   </channel>
 </rss>

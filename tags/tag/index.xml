@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on ACEVS</title>
+    <link>//localhost:1313/tags/tag/</link>
+    <description>Recent content in Tag on ACEVS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 ACEVS</copyright>
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new-article</title>
+      <link>//localhost:1313/blog/1729671583254-new-article/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/1729671583254-new-article/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/1729671583254-new-article/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
