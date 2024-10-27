@@ -4,6 +4,24 @@
 
   <url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-27T15:55:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/blog/</loc>
+    <lastmod>2024-10-27T15:55:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/blog/%E7%9B%8A%E6%99%BA%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2024-10-27T15:55:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/test/articles0001/</loc>
     <lastmod>2024-10-23T15:48:36+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -22,12 +40,6 @@
   </url>
   <url>
     <loc>//localhost:1313/test/articles0002/</loc>
-    <lastmod>2024-10-20T17:08:04+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/blog/</loc>
     <lastmod>2024-10-20T17:08:04+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
